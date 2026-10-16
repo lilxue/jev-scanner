@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title description">
+<title id="title">Jev-Scanner-Base: model, pipelines and applications</title>
+<desc id="description">Task requirements, candidate context, and retained evidence feed a shared multitask model in training. Jev-Scanner is an evaluated conversational-memory pipeline. Personalized memory and agent workflows are future application directions.</desc>
+<rect x="1" y="1" width="1198" height="648" rx="16" fill="#0D1B23" stroke="#2D4753"/>
+<path d="M40 1h110" stroke="#59D3C5" stroke-width="3"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif">
+<text x="40" y="43" font-size="12" font-weight="700" letter-spacing="1.7" fill="#59D3C5">MODEL / PIPELINES / APPLICATIONS</text>
+<text x="40" y="82" font-size="29" font-weight="700" letter-spacing="-.3" fill="#E5F0F2">Context Scanning and Evidence Assessment</text>
+<text x="40" y="111" font-size="16" fill="#A7BCC3">Context admission · Local expansion · Evidence sufficiency</text>
+<rect x="40" y="139" width="360" height="87" rx="10" fill="#142832" stroke="#2D4753"/>
+<g fill="none" stroke="#59D3C5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M62 166h13m-13 6h17m-17 6h10"/></g>
+<text x="91" y="174" font-size="19" font-weight="650" fill="#E5F0F2">Task requirements</text>
+<text x="61" y="205" font-size="15" fill="#A7BCC3">Question · goal · evidence criteria</text><rect x="420" y="139" width="360" height="87" rx="10" fill="#142832" stroke="#2D4753"/>
+<g fill="none" stroke="#59D3C5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="440" y="158" width="17" height="20" rx="2"/><path d="M444 164h9m-9 5h9m-9 5h5"/></g>
+<text x="471" y="174" font-size="19" font-weight="650" fill="#E5F0F2">Candidate context</text>
+<text x="441" y="205" font-size="15" fill="#A7BCC3">Messages · documents · tool outputs</text><rect x="800" y="139" width="360" height="87" rx="10" fill="#142832" stroke="#2D4753"/>
+<g fill="none" stroke="#59D3C5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M821 166l5 5 10-12M821 178h15"/></g>
+<text x="851" y="174" font-size="19" font-weight="650" fill="#E5F0F2">Retained evidence</text>
+<text x="821" y="205" font-size="15" fill="#A7BCC3">Support accumulated during the scan</text>
+<g fill="none" stroke="#476571" stroke-width="1.6"><path d="M220 226v28h760v-28M600 226v54"/><path d="M600 400v31M220 455v-24h760v24M600 431v24"/></g>
+<g fill="#59D3C5"><circle cx="600" cy="254" r="3"/><circle cx="600" cy="431" r="3"/></g>
+<rect x="300" y="280" width="600" height="120" rx="12" fill="#154A4E"/>
+<g transform="translate(328 306)" fill="none" stroke="#B7F0E8" stroke-width="2" stroke-linecap="round"><path d="M0 12V0h12M36 12V0H24M0 24v12h12m24-12v12H24"/><path d="M-4 18h44"/></g>
+<text x="388" y="328" font-size="31" font-weight="700" letter-spacing="-.5" fill="#FFFFFF">Jev-Scanner-Base</text>
+<text x="328" y="364" font-size="17" fill="#D7F0ED">Shared multitask context decision model</text>
+<rect x="729" y="298" width="150" height="24" rx="12" fill="#FFFFFF" fill-opacity=".12"/>
+<text x="804" y="314" font-size="10.5" font-weight="700" text-anchor="middle" letter-spacing=".8" fill="#FFFFFF">IN TRAINING</text>
+<rect x="40" y="455" width="360" height="145" rx="10" fill="#173D42" stroke="#59D3C5"/>
+<text x="61" y="481" font-size="11.5" font-weight="700" letter-spacing="1" fill="#59D3C5">EVALUATED PIPELINE</text>
+<text x="61" y="517" font-size="23" font-weight="700" fill="#E5F0F2">Jev-Scanner</text>
+<text x="61" y="550" font-size="15.5" fill="#A7BCC3">Conversational memory</text>
+<text x="61" y="577" font-size="15.5" fill="#A7BCC3">Anchor + neighbor admission</text><rect x="420" y="455" width="360" height="145" rx="10" fill="#142832" stroke="#2D4753" stroke-dasharray="5 5"/>
+<text x="441" y="481" font-size="11.5" font-weight="700" letter-spacing="1" fill="#A7BCC3">APPLICATION OUTLOOK</text>
+<text x="441" y="517" font-size="23" font-weight="700" fill="#E5F0F2">Personalized memory</text>
+<text x="441" y="550" font-size="15.5" fill="#A7BCC3">Evidence across everyday records</text>
+<text x="441" y="577" font-size="15.5" fill="#A7BCC3">Illustrated workflow</text><rect x="800" y="455" width="360" height="145" rx="10" fill="#142832" stroke="#2D4753" stroke-dasharray="5 5"/>
+<text x="821" y="481" font-size="11.5" font-weight="700" letter-spacing="1" fill="#A7BCC3">APPLICATION OUTLOOK</text>
+<text x="821" y="517" font-size="23" font-weight="700" fill="#E5F0F2">Agent workflows</text>
+<text x="821" y="550" font-size="15.5" fill="#A7BCC3">Evidence across files and sessions</text>
+<text x="821" y="577" font-size="15.5" fill="#A7BCC3">Illustrated workflow</text>
+<text x="40" y="629" font-size="12.5" fill="#A7BCC3">The manuscript evaluates the memory-focused Jev-Scanner-4B checkpoint; broader Base training is ongoing.</text>
+</g>
+</svg>

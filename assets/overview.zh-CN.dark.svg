@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title description">
+<title id="title">Jev-Scanner-Base: model, pipelines and applications</title>
+<desc id="description">Task requirements, candidate context, and retained evidence feed a shared multitask model in training. Jev-Scanner is an evaluated conversational-memory pipeline. Personalized memory and agent workflows are future application directions.</desc>
+<rect x="1" y="1" width="1198" height="648" rx="16" fill="#0D1B23" stroke="#2D4753"/>
+<path d="M40 1h110" stroke="#59D3C5" stroke-width="3"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif">
+<text x="40" y="43" font-size="12" font-weight="700" letter-spacing="1.7" fill="#59D3C5">基模 / PIPELINE / 场景应用</text>
+<text x="40" y="82" font-size="29" font-weight="700" letter-spacing="-.3" fill="#E5F0F2">上下文扫描与证据判断</text>
+<text x="40" y="111" font-size="16" fill="#A7BCC3">上下文接纳 · 局部证据扩展 · 证据充分性判断</text>
+<rect x="40" y="139" width="360" height="87" rx="10" fill="#142832" stroke="#2D4753"/>
+<g fill="none" stroke="#59D3C5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M62 166h13m-13 6h17m-17 6h10"/></g>
+<text x="91" y="174" font-size="19" font-weight="650" fill="#E5F0F2">任务需求</text>
+<text x="61" y="205" font-size="15" fill="#A7BCC3">问题 · 目标 · 证据要求</text><rect x="420" y="139" width="360" height="87" rx="10" fill="#142832" stroke="#2D4753"/>
+<g fill="none" stroke="#59D3C5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="440" y="158" width="17" height="20" rx="2"/><path d="M444 164h9m-9 5h9m-9 5h5"/></g>
+<text x="471" y="174" font-size="19" font-weight="650" fill="#E5F0F2">候选上下文</text>
+<text x="441" y="205" font-size="15" fill="#A7BCC3">消息 · 文档 · 工具返回</text><rect x="800" y="139" width="360" height="87" rx="10" fill="#142832" stroke="#2D4753"/>
+<g fill="none" stroke="#59D3C5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M821 166l5 5 10-12M821 178h15"/></g>
+<text x="851" y="174" font-size="19" font-weight="650" fill="#E5F0F2">已保留证据</text>
+<text x="821" y="205" font-size="15" fill="#A7BCC3">扫描过程中逐步积累的支持信息</text>
+<g fill="none" stroke="#476571" stroke-width="1.6"><path d="M220 226v28h760v-28M600 226v54"/><path d="M600 400v31M220 455v-24h760v24M600 431v24"/></g>
+<g fill="#59D3C5"><circle cx="600" cy="254" r="3"/><circle cx="600" cy="431" r="3"/></g>
+<rect x="300" y="280" width="600" height="120" rx="12" fill="#154A4E"/>
+<g transform="translate(328 306)" fill="none" stroke="#B7F0E8" stroke-width="2" stroke-linecap="round"><path d="M0 12V0h12M36 12V0H24M0 24v12h12m24-12v12H24"/><path d="M-4 18h44"/></g>
+<text x="388" y="328" font-size="31" font-weight="700" letter-spacing="-.5" fill="#FFFFFF">Jev-Scanner-Base</text>
+<text x="328" y="364" font-size="17" fill="#D7F0ED">面向上下文决策的共享多任务基模</text>
+<rect x="729" y="298" width="150" height="24" rx="12" fill="#FFFFFF" fill-opacity=".12"/>
+<text x="804" y="314" font-size="10.5" font-weight="700" text-anchor="middle" letter-spacing=".8" fill="#FFFFFF">多任务训练进行中</text>
+<rect x="40" y="455" width="360" height="145" rx="10" fill="#173D42" stroke="#59D3C5"/>
+<text x="61" y="481" font-size="11.5" font-weight="700" letter-spacing="1" fill="#59D3C5">已评估的 PIPELINE</text>
+<text x="61" y="517" font-size="23" font-weight="700" fill="#E5F0F2">Jev-Scanner</text>
+<text x="61" y="550" font-size="15.5" fill="#A7BCC3">长期对话记忆</text>
+<text x="61" y="577" font-size="15.5" fill="#A7BCC3">锚点接纳 + 邻近证据接纳</text><rect x="420" y="455" width="360" height="145" rx="10" fill="#142832" stroke="#2D4753" stroke-dasharray="5 5"/>
+<text x="441" y="481" font-size="11.5" font-weight="700" letter-spacing="1" fill="#A7BCC3">未来应用展望</text>
+<text x="441" y="517" font-size="23" font-weight="700" fill="#E5F0F2">个性化记忆</text>
+<text x="441" y="550" font-size="15.5" fill="#A7BCC3">跨个人日常记录组织证据</text>
+<text x="441" y="577" font-size="15.5" fill="#A7BCC3">场景流程演示</text><rect x="800" y="455" width="360" height="145" rx="10" fill="#142832" stroke="#2D4753" stroke-dasharray="5 5"/>
+<text x="821" y="481" font-size="11.5" font-weight="700" letter-spacing="1" fill="#A7BCC3">未来应用展望</text>
+<text x="821" y="517" font-size="23" font-weight="700" fill="#E5F0F2">Agent 工作流</text>
+<text x="821" y="550" font-size="15.5" fill="#A7BCC3">跨文件与历史会话组织证据</text>
+<text x="821" y="577" font-size="15.5" fill="#A7BCC3">场景流程演示</text>
+<text x="40" y="629" font-size="12.5" fill="#A7BCC3">论文评估面向记忆任务的 Jev-Scanner-4B checkpoint；更广的 Base 多任务训练正在进行。</text>
+</g>
+</svg>

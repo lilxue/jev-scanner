@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="184" viewBox="0 0 408 184" role="img" aria-labelledby="title description">
+<title id="title">41.6% · Answer-input token reduction</title>
+<desc id="description">Jev-Scanner pipeline / LoCoMo. MemMachine · C + L. Reported in the paper. Answer-input tokens exclude Scanner and Judge calls.</desc>
+<rect x="1" y="1" width="406" height="182" rx="12" fill="#142832" stroke="#2D4753"/>
+<path d="M25 1h64" stroke="#59D3C5" stroke-width="2.5"/>
+<g transform="translate(351 24)" fill="none" stroke="#59D3C5" stroke-width="1.6" stroke-linecap="round"><path d="M0 0h24M0 7h18M0 14h11"/><path d="M24 8v13m-4-4 4 4 4-4"/></g>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif">
+<text x="25" y="34" font-size="11" font-weight="650" letter-spacing="1.2" fill="#A7BCC3">PIPELINE / LoCoMo</text>
+<text x="24" y="94" font-size="48" font-weight="700" letter-spacing="-1.6" fill="#59D3C5">41.6%</text>
+
+<text x="25" y="124" font-size="18" font-weight="600" fill="#E5F0F2">Answer-input token reduction</text>
+<path d="M25 141H383" stroke="#2D4753"/>
+<text x="25" y="165" font-size="14" fill="#A7BCC3">MemMachine · C + L</text>
+</g>
+</svg>

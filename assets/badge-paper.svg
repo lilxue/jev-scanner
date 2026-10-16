@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="24" viewBox="0 0 146 24" role="img" aria-label="Paper: Jev-Scanner">
+<clipPath id="bounds"><rect x="0.5" y="0.5" width="145" height="23" rx="4.5"/></clipPath>
+<g clip-path="url(#bounds)"><rect width="146" height="24" fill="#172B35"/><rect x="49" width="97" height="24" fill="#0E7C7B"/></g>
+<rect x="0.5" y="0.5" width="145" height="23" rx="4.5" fill="none" stroke="#D8E4E7" stroke-opacity=".22"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle"><text x="24.5" y="16">Paper</text><text x="97.5" y="16">Jev-Scanner</text></g>
+</svg>

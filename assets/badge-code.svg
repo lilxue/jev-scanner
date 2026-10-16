@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="24" viewBox="0 0 181 24" role="img" aria-label="Code: Release planned">
+<clipPath id="bounds"><rect x="0.5" y="0.5" width="180" height="23" rx="4.5"/></clipPath>
+<g clip-path="url(#bounds)"><rect width="181" height="24" fill="#172B35"/><rect x="48" width="133" height="24" fill="#405F6D"/></g>
+<rect x="0.5" y="0.5" width="180" height="23" rx="4.5" fill="none" stroke="#D8E4E7" stroke-opacity=".22"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle"><text x="24.0" y="16">Code</text><text x="114.5" y="16">Release planned</text></g>
+</svg>

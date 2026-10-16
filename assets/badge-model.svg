@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="24" viewBox="0 0 150 24" role="img" aria-label="Model: In training">
+<clipPath id="bounds"><rect x="0.5" y="0.5" width="149" height="23" rx="4.5"/></clipPath>
+<g clip-path="url(#bounds)"><rect width="150" height="24" fill="#172B35"/><rect x="51" width="99" height="24" fill="#0E7C7B"/></g>
+<rect x="0.5" y="0.5" width="149" height="23" rx="4.5" fill="none" stroke="#D8E4E7" stroke-opacity=".22"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle"><text x="25.5" y="16">Model</text><text x="100.5" y="16">In training</text></g>
+</svg>
